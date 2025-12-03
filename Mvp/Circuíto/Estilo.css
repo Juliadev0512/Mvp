@@ -1,0 +1,44 @@
+head{
+    background-color: cadetblue;
+    border-image-source: none;
+
+}
+header {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+header img{
+    width: 50px;
+    border-radius: 100px;
+    
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgb(18, 189, 189);
+}
+
+h1{
+    text-align: center;
+    color: rgb(245, 245, 245);
+    font-family: cursive;
+}
+
+body{ 
+    background-color: darkolivegreen
+};
+
+image{
+    border-radius: 10px;
+}
+
+footer{
+    background-color: rgb(94, 109, 26);
+    color: white;
+}

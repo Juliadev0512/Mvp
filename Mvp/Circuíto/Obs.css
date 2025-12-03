@@ -1,0 +1,21 @@
+body,h1{
+  text-align: center;
+  color: #fdfdfb;
+  background-color: darkolivegreen;
+}
+
+p{
+  text-align: justify;
+  font-size: mediums;
+  font-family: Arial Narrow Bold;
+  color: #fdfdfb;
+}
+
+caixa-de-comentario{
+  left: 10;
+}
+
+h2{
+  text-align: justify;
+  
+}

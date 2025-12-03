@@ -15,8 +15,6 @@ Tecnologias usadas: Html para organizar a estrutura do site, Css para formatar-l
 
 Ferramenta de prototipação: Canvas.
 
-Tela de Boas-vindas: ![3](https://github.com/user-attachments/assets/037a3cb4-969d-4798-830d-0cad707994dc)
+Telas que serão feitas: Login, boas-vindaas e comntarios.
 
-Login: ![2](https://github.com/user-attachments/assets/0c3fc2a5-6268-4cfe-9675-3c717bdb095b)
-
-Ponto turístico e avalições: ![6](https://github.com/user-attachments/assets/e9df1ec3-03f7-4ca5-9c53-4a87d131362d)
+Instruções para abrir o Mvp localmente: Baixe o arquivo "Mvp", clique para baixa-lo, em seguida, abra a pasta "Circuíto", clique em "Principal.html" e navegue pelo site.  

@@ -1,0 +1,67 @@
+p{
+  text-align: justify;
+  color: #ffffff;
+  
+}
+
+body,h1{
+    text-align: center;
+    color: #fdfdfd;
+    background-color: darkolivegreen;
+}
+
+p{
+  text-align: justify;
+  font-size: mediums;
+  font-family: Arial Narrow Bold;
+  
+}
+
+header{
+  background-color: darkcyan;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+header img{
+  border-radius: 60px;
+}
+
+header button{
+  border-radius: 10px;
+  background-color: rgb(18, 189, 189);
+}
+
+h2{
+  text-align: justify; 
+}
+
+form {
+  text-align: left;
+  padding: 15px;
+  font-size: 15px
+}
+
+button{
+  background-color: darkcyan;
+  border-radius: 10px;
+  padding: 6px;
+}
+
+button:hover{
+  background-color: cyan;
+}
+
+input{
+  padding: 12px;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+textarea{
+  border-radius: 10px;
+  font-size: 12px;
+  padding: 12px;
+}

@@ -17,4 +17,4 @@ Ferramenta de prototipação: Canvas.
 
 Telas que serão feitas: Login, boas-vindaas e comntarios.
 
-Instruções para abrir o Mvp localmente: Baixe o arquivo "Mvp", clique para baixa-lo, em seguida, abra a pasta "Circuíto", clique em "Principal.html" e navegue pelo site.  
+Instruções para abrir o Mvp localmente: Baixe o arquivo "Mvp"(Embaixo do nome do arquivo, mude para "todos os arquivos), clique para baixa-lo, em seguida, abra a pasta "Circuíto", clique em "Principal.html" e navegue pelo site.  

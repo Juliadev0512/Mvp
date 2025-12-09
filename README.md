@@ -11,7 +11,7 @@ Público-alvo: População de Magé ou visitantes.
 
 Dores do público alvo: A população tem dificuldade em acessar informações sobre as atrações naturais da cidade de forma eficiente e conveniente.
 
-Tecnologias usadas: Html para organizar a estrutura do site, Css para formatar-lo e Javascript para avisos amigos na tela.
+Tecnologias usadas: Vscode para poder implementar os códigos, Html para organizar a estrutura do site, Css para formatar-lo e Javascript para avisos amigaveis na tela.
 
 Ferramenta de prototipação: Canvas.
 
